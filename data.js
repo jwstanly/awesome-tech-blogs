@@ -12,12 +12,9 @@ module.exports = [
       "Next.js",
       "APIs",
       "Fullstack",
-      "Web Development",
       "Cloud Infrastructure",
       "Software Architecture",
       "Serverless",
-      "Tech",
-      "Linux",
     ],
   },
   {
