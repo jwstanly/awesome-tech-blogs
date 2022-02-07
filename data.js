@@ -1,5 +1,23 @@
 module.exports = [
   {
+    name: "John Wright Stanly",
+    description: "Articles from a startup co-founder about AWS, React, TypeScript, Next.js, Serverless, and more",
+    url: "https://jwstanly.com/blog",
+    twitter: "@jwstanly",
+    tags: [
+      "AWS",
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "Next.js",
+      "APIs",
+      "Fullstack",
+      "Cloud Infrastructure",
+      "Software Architecture",
+      "Serverless",
+    ],
+  },
+  {
     name: "Webdevolution",
     description: "Web dev tips, tutorials and solutions for common problems.",
     url: "https://www.webdevolution.com",
